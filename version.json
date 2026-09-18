@@ -1,0 +1,13 @@
+{
+  "name": "IPAudioPlus",
+  "version": "1.0",
+  "date": "2026-09-18",
+  "description": "تحديث جديد لبلجن IPAudioPlus يتضمن ميزات وتحسينات جديدة",
+  "changelog": [
+    "إضافة خاصية الفحص والتحديث التلقائي مباشرة من GitHub",
+    "إضافة زر فحص التحديثات الفوري في قائمة الإعدادات (Check for update)",
+    "إضافة مولد التوكن والاشتراكات الذكي (Token Generator) في واجهة الويب",
+    "تحسين التوافقية الشاملة وسرعة الاستجابة على صور Enigma2"
+  ],
+  "download_url": "https://raw.githubusercontent.com/Ahmadarjan1/IPAudioPlus/main/IPAudioPlus.tar.gz"
+}
