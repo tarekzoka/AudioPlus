@@ -4,7 +4,7 @@
 # ==========================================
 
 # إعدادات الروابط والمتغيرات
-GITHUB_USER="Ahmadarjan1"
+GITHUB_USER="tarekzoka"
 GITHUB_REPO="IPAudioPlus"
 BRANCH="main"
 PLUGIN_NAME="IPAudioPlus"
